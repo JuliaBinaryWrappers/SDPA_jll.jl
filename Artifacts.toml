@@ -1,0 +1,76 @@
+[[SDPA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "78a6485e28528a67069249c6951e5d3a1698d900"
+libc = "glibc"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "97e218ee8ac3df4d3b0702a0fae9b0eb3930c57acec96bda3e241d3682e33a99"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v7.3.8+0/SDPA.v7.3.8.aarch64-linux-gnu-cxx11.tar.gz"
+[[SDPA]]
+arch = "armv7l"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "836e9daad13acec37c8de290325e02aad25bfc7f"
+libc = "glibc"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "1c919e1ccf6aeab6d6d81189da7bd12d3d0eb68c4b4742145ea6f5416dbf71a1"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v7.3.8+0/SDPA.v7.3.8.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[SDPA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3597a61f168db1c6598f7edd309a167394d136fe"
+libc = "glibc"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "f5403ef809c1fdbc45bf7ae7ddcc53dc7a75c0437d1ac451d14b3c7e8b2b0692"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v7.3.8+0/SDPA.v7.3.8.i686-linux-gnu-cxx11.tar.gz"
+[[SDPA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "97755d6247ff1adc07ef9dd32ba97d0aa781caf8"
+os = "windows"
+
+    [[SDPA.download]]
+    sha256 = "552cb78d26dfdf4d0df5583f753083546d1df3bfc2963e98c07ec6de5029f318"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v7.3.8+0/SDPA.v7.3.8.i686-w64-mingw32-cxx11.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6e31b4ebcee1f39e5afe325e6ce814c9412ab9e2"
+os = "macos"
+
+    [[SDPA.download]]
+    sha256 = "52b149453f69feeb7890345a0af4c4777326e4a199ee18a2971315e918b5aec8"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v7.3.8+0/SDPA.v7.3.8.x86_64-apple-darwin14-cxx11.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e7f45ed25b54f77e626f6693ac8e57a0d253b38b"
+libc = "glibc"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "7b0084448bed95142cec0f155606ee85e88c2eef40c90941b774094c98dd8f53"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v7.3.8+0/SDPA.v7.3.8.x86_64-linux-gnu-cxx11.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0650ecd26473b392ff9a9114be1ae16432714364"
+os = "freebsd"
+
+    [[SDPA.download]]
+    sha256 = "bebd86ca835a8082f38336df90be452af9b225ed3144fe3bd47370aab7a1ede1"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v7.3.8+0/SDPA.v7.3.8.x86_64-unknown-freebsd11.1-cxx11.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c80b3bd38264876b6fd98f220b4124c0557f2666"
+os = "windows"
+
+    [[SDPA.download]]
+    sha256 = "b4674dfff1c7dee4c54681765e98fece55b83a9fb04ed6662bdd53293b028dd8"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v7.3.8+0/SDPA.v7.3.8.x86_64-w64-mingw32-cxx11.tar.gz"
