@@ -1,6 +1,6 @@
 name = "SDPA_jll"
 uuid = "7fc90fd6-dbef-5a6a-93f8-169f2a2e705b"
-version = "7.3.8+0"
+version = "7.3.8+1"
 
 [deps]
 Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
