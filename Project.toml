@@ -1,6 +1,6 @@
 name = "SDPA_jll"
 uuid = "7fc90fd6-dbef-5a6a-93f8-169f2a2e705b"
-version = "700.300.801+0"
+version = "700.300.801+1"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -13,4 +13,4 @@ Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
 
 [compat]
 JLLWrappers = "1.2.0"
-julia = "~1.6, ~1.7, ~1.8, ~1.9"
+julia = "~1.6, ~1.7, ~1.8, ~1.9, ~1.10"
