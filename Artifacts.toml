@@ -1,372 +1,744 @@
 [[SDPA]]
 arch = "aarch64"
-git-tree-sha1 = "5e1da3705cd51c672ef3bed2d25704b27002da23"
+git-tree-sha1 = "530f71ba5c2eee5a7bce0f54c8fba0a48b358ef4"
 julia_version = "1.10.0"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SDPA.download]]
-    sha256 = "b0a7a061cb6f33a69976d9675eb15a84c77ff42607f4510b059ea8922ebaf23e"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-apple-darwin-libgfortran5-julia_version+1.10.0.tar.gz"
+    sha256 = "0184b762647e44483c6548d1304a190135f23963b12bfddb8860fefab670c4e6"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-apple-darwin-libgfortran5-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "aarch64"
-git-tree-sha1 = "1763b7012ede15006a5fbf9d0b17245baab7333b"
+git-tree-sha1 = "c8d44a1d7cefecf713e8ed11e163f4c247edaafd"
 julia_version = "1.11.1"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SDPA.download]]
-    sha256 = "23e6bd8c983d618079a9d1af04fecfc5cfcfe86423f02ac5379c486f5d1d8c52"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-apple-darwin-libgfortran5-julia_version+1.11.1.tar.gz"
+    sha256 = "5d6cc7f2d1ae2199c5b430030c2bd98eb3162908d72d7b6e9c23c2a19ce4da95"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-apple-darwin-libgfortran5-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "aarch64"
-git-tree-sha1 = "c59b73447bd18e71e90dc5828327ff3cdb672b92"
+git-tree-sha1 = "6ae944060acbe0dd90fce2ae795d5834de2dd663"
 julia_version = "1.12.0"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SDPA.download]]
-    sha256 = "0da39b22ee81c59ca6c90ed5fd9aa8410c3051dfeb012a30e5bad58c0afcf6be"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-apple-darwin-libgfortran5-julia_version+1.12.0.tar.gz"
+    sha256 = "fd68a6686c625b9674a28a1dad5f34ec89eb72bb13c08c4f336f2d97367b3c75"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-apple-darwin-libgfortran5-julia_version+1.12.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+git-tree-sha1 = "7fe49db1352c7f09e564106f2a607b34abebfe0e"
+julia_version = "1.13.0"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SDPA.download]]
+    sha256 = "1fbeaff988740ed90511ceab446d5a94a1d899774864717ce9da0ff803343f38"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-apple-darwin-libgfortran5-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+git-tree-sha1 = "d6ed98fc1544712afe8aec3e9435a66a60002fbe"
+julia_version = "1.14.0"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SDPA.download]]
+    sha256 = "600f67286467f188bccf080b3a553eb313b14e2a902e67dcddde3a75ffb68970"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-apple-darwin-libgfortran5-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+git-tree-sha1 = "4681c537d4a1a1f46265459559548c9c1626bc2a"
+julia_version = "1.15.0"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SDPA.download]]
+    sha256 = "d44a524a8294f451f66e1190726c6b7bb2491cc79690d3ef7978d7130e25e802"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-apple-darwin-libgfortran5-julia_version+1.15.0.tar.gz"
 [[SDPA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "ee24cc77d7b3fb00b571141709d956f8ea37b4b8"
+git-tree-sha1 = "e7c193b5673375254588709f646d8f5308b39d20"
 julia_version = "1.10.0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "3fc2e72a06b2b3cadc9b4ee9b609aa8f0e7c36cb64c928b25f8dc60306ebc78e"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "abce54cdd6c5d621486625e2b287d0970bd3f01092530bec17787950c71cc2af"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "4d792b2cd7311520a40e22c7853957ca9c59c9ba"
+git-tree-sha1 = "3edaa758a85739e1ccd62034f245c2ac5cb3f7ef"
 julia_version = "1.11.1"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "fd02a24ed9166013ba2d307a2df54739e22d81436f3bdc0f3ace24a556e3a56f"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "e21078a78debdb3513832ddd8fb35d9212422ede4e47fc74212677719c60e17a"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "de1cebcab7ad0e5d5cfcc3dd3b7f4e3beb8ff6a2"
+git-tree-sha1 = "13d9f4a0e6155f582942f898c1c7e5b79b948b59"
 julia_version = "1.12.0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "3ddd108dc64b24c5d0061b205bcbabc0d36606a43d34859d73ffffd1714b23a4"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "83c7b4534f744212a0973f7e7a4ca99fabc18813d0685dd5aab1b43821e1c53f"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
 [[SDPA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "37ed313bf222f1c8a217d7aa88a32b52061c7fed"
+git-tree-sha1 = "15f18818a3399de5d3094abaf0ece8f8a48f6879"
+julia_version = "1.13.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "8aed59cfbe3db7697e6479fb4fac85280b885b1a2e081713ec8bc11af7f2e3aa"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a9f0f7890ce4c1df505fb304dc274180be716fd8"
+julia_version = "1.14.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "341d1ab4902909c874c7e501f2dd83b9c4b2613531f4ae2acf5e56db4698c0b8"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8290ff21b47e26aaff29a5eb0137eb55ce1901e1"
+julia_version = "1.15.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "8e9bf03198c7f888a008a118c18e9be4fe42e7a3532ffa5d9036dc26b73bd309"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-gnu-libgfortran5-cxx11-julia_version+1.15.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "785d8ac1db3464f403afebed221f804e6583546a"
 julia_version = "1.10.0"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "f2c3ca5d70d901c4054b7527bac80a1ba2bb2c33be1bfe7267338b052bf26637"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "733deb07eb753f70e8232c242d4ebad704b07a67fae58579a2f089aa682e2fba"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "6b9ee40c93116c488c15b99b45c6d71028a41700"
+git-tree-sha1 = "218740a3d1c430de107bd308a03deeb4fca8cab7"
 julia_version = "1.11.1"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "cdc6edafab15094f2ba650ab1c96bce43fcfa2c83e23fa6767e4591c522c0534"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "1f94308d04508fa582e82a65abab5deab840f68ce2ef8adae11afd264661f422"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "aarch64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c4577c8006b18fd6d024f8d88e19925555284ec8"
+git-tree-sha1 = "d390198d21e1cd64c5f3b33209ff012553021046"
 julia_version = "1.12.0"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "0ddf28f984b4b2ea75326478a60f35c12d7494dfdca4b5e2fae739809ed24216"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "bbafd63d7b342014c869b5bae3d9414c01eaac41908f8737740fdd5699d2a042"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b8b26527e0e4feeb9913787e61a163d20aa8d9f1"
+julia_version = "1.13.0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "46cf1a03201fa48038d698860de196021a841591094ad989d06b58c297673497"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2055c44b7b420161cda6f1409675cbcde082c111"
+julia_version = "1.14.0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "bb0fc1160dc43ebb4d4e04105659057f948d601173ae7e43fcca307f52f91fc4"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c9d61eaae962b0da3b86055ee8f76cba401292df"
+julia_version = "1.15.0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "b7756125b18b6e9a405840efb7a85cdc88b6ca0a2f8a2bb7297a632dcb28b773"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.aarch64-linux-musl-libgfortran5-cxx11-julia_version+1.15.0.tar.gz"
 [[SDPA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "80572db1547884ecc6e24c07ae1d2659f54a86cb"
+git-tree-sha1 = "62a470b857f23be9c1b975f1a65fda5d62cd4df0"
 julia_version = "1.10.0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "8c898c24af49d62d6ee8ae493b1741dd8faa3d382077cef004e9f0fd44cf6008"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "00b402e4607631ecd30468aa6c370bdd930be356e73e0cab308f9c9376cd7679"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "035e4ff1b0ddc363eb7469e049bb79877fbe8504"
+git-tree-sha1 = "7906fd79af7e33e54db00da08b65e01ee6fcbc29"
 julia_version = "1.11.1"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "9195886fabb7ecb8cca0f31bfa0363025f71c3f3a227e54e53765ca65db69a53"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "67511550e064e428f3e3dc95b20c9615c6c2df5f870c5d1e452c3c28a3ecca7e"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "b7880d221bd1dcfce2125120104bd1e7e9891911"
+git-tree-sha1 = "76c4887ab21e4591bedcfc11fea9c7c166852e82"
 julia_version = "1.12.0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "2c87de57e31c500fd4317a5d6afd96e06e0dabee59409e6bf02ea698842353fd"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "04aa64a437ebd28d65a9e576aba4fafdb0d542184780fe9b33712d03c64a8582"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
 [[SDPA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "e3ff11daf924941b91b36abfcdfb9937a9a7babd"
+git-tree-sha1 = "71bad19dd6466becbd3a904d09e0705c68380348"
+julia_version = "1.13.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "1758179a52d756c71dd4c1bc77e616f254cbe90d3dfd0461b5b1f74b75c1aa3c"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7f2100d7e3876fa56722f1a4a1c65f22d8f093c5"
+julia_version = "1.14.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "e441c58f168b513242e30f911f8246f8000030809a5d9c312d6334302e4e0b41"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2bf3283a2cc5b7c291f525b75d95d1d3feedaa2a"
+julia_version = "1.15.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "24c6fe0a6578620fcb76bae5fb8fda939db92a744a547a8b8d94de27483b5935"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-linux-gnu-libgfortran5-cxx11-julia_version+1.15.0.tar.gz"
+[[SDPA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3319afd5205bb12857001ddd33f9699e8f50fbac"
 julia_version = "1.10.0"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SDPA.download]]
-    sha256 = "46621d6885924b5030dcabb30fd0f1243f01128e72c6a9fcf57bb2a0af2535f3"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "d54d9fd55d0552a880119fb86215a43e733c166f37a7d8e053e3e6b790fa1a90"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "16de13886fe359c7049b6c732dcc0be295b586c9"
+git-tree-sha1 = "71011fef7d454fe5848e07e2c6f58ff622f1942d"
 julia_version = "1.11.1"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SDPA.download]]
-    sha256 = "f68d9a463ab612a70300a40e8b9142174cbede91dd2ee616a755210aba8c2912"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "685a965d93793b4fd827dc2993969f83056ae37bc7c691e0533772880f22727f"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "i686"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "5910a723f842683eb79357f85179d29b31722110"
+git-tree-sha1 = "2d0e28521c2b86855bc6c7aa1eea9dccc8c061c9"
 julia_version = "1.12.0"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SDPA.download]]
-    sha256 = "158247d2acd89a32d96057db33d585053fb1378797fb9d9892cd33d9c316cf16"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "7decb9bd146a45302384e96cbafc72cc456437a3728b970922af6431b073c0b7"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+[[SDPA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "14f0b11e38705fdea9a7fae8ee45073dedd77698"
+julia_version = "1.13.0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SDPA.download]]
+    sha256 = "03ced4e3501f7b00fefe03d2e04e7eb6f5de418a93bb3486a4d50b3b9f4154b8"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3f33e0b2b8fade644ba48b6b4fc2dfd28b077a8"
+julia_version = "1.14.0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SDPA.download]]
+    sha256 = "3009f0e6aba9ad25b03a105c4422ba04dadb904f6b519d171c8cc92f442135ec"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "bc7309df4c9a5fd5039ef4684603464dab21290f"
+julia_version = "1.15.0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SDPA.download]]
+    sha256 = "fc16c7d3e507d000b911f7458eb825938fbefc29c15e5c33ba449abe601acd8e"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.i686-w64-mingw32-libgfortran5-cxx11-julia_version+1.15.0.tar.gz"
 [[SDPA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d33ea2ea6b0770937c2f607fe9e77e0c10014ffd"
+git-tree-sha1 = "341cceb66a1555015d9e45e276cb652e83487498"
 julia_version = "1.10.0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "3a3c7b72b72b60c17572a53647f67027d5453b9e512a911dfa04af8fbeed24ca"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "ac1bc1bdf2e66f6bed0ca8d5571805a7a7d82ee6387faa288cf814913c52e3f6"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "c4b099cc184ab06c4aea544b7ad739874ca97b85"
+git-tree-sha1 = "ed72d1f90a709f42054c95c1b48a606023267556"
 julia_version = "1.11.1"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "4b1d691dc8aadd1912fc996e09b898a5c8aae2af2a39bb448188bea95ae058cc"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "dee266a4c432d25a5907dc9ed317856fbc2bc2a3f0fbeb9337856bd65ddc8644"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "powerpc64le"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "a089b0c6eca8ff465013376636627a0933210f14"
+git-tree-sha1 = "53a53fcc4dbe016ed65dadd93666261a9acebea4"
 julia_version = "1.12.0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "3c3e934e58c323a4dd5c67d99712f9da12268e822cf17ade06165787dc0ea958"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "34e6f77da0b8db34ddb654f858e1bcea4fde36754cd0cd5aeeed1ab99058a979"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+[[SDPA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ae4a2017a1973e2103ddaed6db3203192449d06"
+julia_version = "1.13.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "01cc574c6c27a514ef0c960fe6f7d5ebbfc185d248bc2f93ff8dd9bd5ff504b8"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "09bb387701e5508605e2c888406dc03584a93d1c"
+julia_version = "1.14.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "96b0535732a7892171f75f8ca8858b4e7235f409e131f7ac608bfc50cc59f8b4"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2287e861c51a506350f378c9f62ee691f0bdd620"
+julia_version = "1.15.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "5e72385932cc5cfebd4cec154c99dc4a30d4843ab7b15adf856e2139d3a93b3b"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.powerpc64le-linux-gnu-libgfortran5-cxx11-julia_version+1.15.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
-git-tree-sha1 = "f84208310a047773507b8a5e00856cfdad6c3494"
+git-tree-sha1 = "94590c07cf5b5c2200f397158f6a87c2d9677413"
 julia_version = "1.10.0"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SDPA.download]]
-    sha256 = "ac6ee4b445b725a2cb3638a4c076bf7dc831cd59adfc60fabacd74fa15a5397f"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-apple-darwin-libgfortran5-julia_version+1.10.0.tar.gz"
+    sha256 = "8b01e96324e08644f174f737cab9e397ebff511d9f94fcac383f27e3f7155ed7"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-apple-darwin-libgfortran5-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
-git-tree-sha1 = "336b932cbb31471798836e3047992c33f7c487f7"
+git-tree-sha1 = "90ee6e8919924d4b126cf8d942be7d61161eb6ce"
 julia_version = "1.11.1"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SDPA.download]]
-    sha256 = "576dcdc9b5d9ed61241414d61d84f673c60907bee1a5c79b361dd01fb527e1a8"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-apple-darwin-libgfortran5-julia_version+1.11.1.tar.gz"
+    sha256 = "909caed112dd06d61f0b583dd3893fd89407e1a4bfe99d93dbc6856c44de2954"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-apple-darwin-libgfortran5-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "x86_64"
-git-tree-sha1 = "a7a6723dee7cd3027a893d37f24f15cb07faa270"
+git-tree-sha1 = "9cd328bb85b1db468e8a543f52792bb11d7756c2"
 julia_version = "1.12.0"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[SDPA.download]]
-    sha256 = "9c021c0169635f21d3e59335a5336156109851e25f0429d9314d9d6631359274"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-apple-darwin-libgfortran5-julia_version+1.12.0.tar.gz"
+    sha256 = "38723737e9bd32956475e3a06923cf3484b222d09fb6123dd263104ffcf9dd83"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-apple-darwin-libgfortran5-julia_version+1.12.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+git-tree-sha1 = "f94d5a0751042bb18fc3e57999c990af56348153"
+julia_version = "1.13.0"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SDPA.download]]
+    sha256 = "0fb313cb63ebad8fb20c4f532d0f51d2cf1a3b199f86af6845e5116fbcb32d23"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-apple-darwin-libgfortran5-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+git-tree-sha1 = "84ecd195a3eead257d9ba5c0e7fbe9e8c73b528e"
+julia_version = "1.14.0"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SDPA.download]]
+    sha256 = "949ec917178f7cdd7d175cd0b25048c3a59089bf786c68f167a18d53be4d3463"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-apple-darwin-libgfortran5-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+git-tree-sha1 = "1f0a0deb99e9f1cfe4c2a99e3d0b2ccf93561983"
+julia_version = "1.15.0"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[SDPA.download]]
+    sha256 = "f9909c0a65a9cdcddd066d89c2d062524d6f0579550ed47e96c352ce200a9a82"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-apple-darwin-libgfortran5-julia_version+1.15.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f2ee5a72f3f922c35c0593a5a508844edbab3b50"
+git-tree-sha1 = "7b9a840431361b13d959894136cad9ec4f435997"
 julia_version = "1.10.0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "d409fbb313ab975587b717dd1900e1ad26d912f2b03eb714ba338372031d2d7e"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "bc0b3a0110bed6cbd8a5a7178f127a6df2a3ac5286afd8f5358f2a2cbf84eff9"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "d90c22f6d9f39602112e213d73f05bdc0eb74111"
+git-tree-sha1 = "0335c7874c5d8bca8326d9bd7035d3e82b57b2ec"
 julia_version = "1.11.1"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "ab4f636fb501d3c09f83a3d882386f5abbcfdda717de0e0e5f5cf70191063a01"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "7195cc1eef760c09facf47fc74a73d256b6b37734b7856eb43fe14032933a474"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "0d81fb1da2fd6a97673dacbe48865ca940948b2d"
+git-tree-sha1 = "1b560c84dc78b2f6fecf4bc02e78c1436f8bee50"
 julia_version = "1.12.0"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "8862433afaf9a5892c59d7064288573a3c1e08c4bfe9a835c1540283cdd91de8"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "dddab67878a1f9e71fd71c1ab1927d7486bb0abfbea1d88d759a5aab436b4808"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "f307c3264ad5747061654d3eee5277a86f8889d8"
+git-tree-sha1 = "9cd9a7b01e775f44d1d94f3319b6888816c37714"
+julia_version = "1.13.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "0513669e48c799f91e6740b980ea910ef98bef32a817e6a590e1e3680a917e8c"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d1fb437bdbad1a37bfe24eabeed98257022c55a9"
+julia_version = "1.14.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "84248199d6f703dd6e7b42ed030f390cb1ce2fc7a41692dee08bd9180ac4a091"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c01554cdbc1bdac21031ffd59e7d6561b503a97e"
+julia_version = "1.15.0"
+libc = "glibc"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "b7a6e6c85095ef9254fc3d43edec31ac8240c2c5e1fd3f66558dcb62acafde1d"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-gnu-libgfortran5-cxx11-julia_version+1.15.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a71780981d0c8321e02623ca0337bcefc1c1670f"
 julia_version = "1.10.0"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "64e77eeb58cc25cc8237c916476c1c2ca87dd271fb99b6950a9667853e5257e6"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "ff4c65da26472b623da107edaa05167c8c2ad734aa7eb96256ae0dee72864d40"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "cb0180f118f04598a29c1b17f2e19b3d1276d174"
+git-tree-sha1 = "dc42c913aa0d9de087d8606b2ec48214fe725fd1"
 julia_version = "1.11.1"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "1efa7b7a7e3c196ab735de1a5e5038be7a3e6aaf9f3e6bb4ad60001569ae6869"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "70c74c451205a1cdbd7fd4e1ff52c50e6afc1aecd292dcbbb31af69084371ca5"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "dd22344fb340d47404685a2f801f2325dfa430b8"
+git-tree-sha1 = "539b10468eaf63a2d08840b347735bd606f42ee7"
 julia_version = "1.12.0"
 libc = "musl"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[SDPA.download]]
-    sha256 = "0eab3378b7b71cb8f418d5ebf1d86e89454dd34c4333dfbdf37c621ac4c32a87"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "aa179690dea4a0ae1fc13d1fad51d35ef1ce900e559564da5a57786fef24044a"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
-git-tree-sha1 = "f593c64b43a71bdcc29985f01c0c0df78b22d1b9"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ba3762a613913e6370e8dc37f9880ace6dd120f6"
+julia_version = "1.13.0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "b584d8d81efc98d608ed99d7224b170e299b67857edd0b1c49ee2121b22665a1"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b34ef19700380e2ec362af69533b826a9698aa30"
+julia_version = "1.14.0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "d6db5f5cb1678b7eba59368c49788959115ff24603c0275b62a4585f17d98f0e"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b370079e6cbf3e42055be2e95b505a0995a3a9ee"
+julia_version = "1.15.0"
+libc = "musl"
+libgfortran_version = "5.0.0"
+os = "linux"
+
+    [[SDPA.download]]
+    sha256 = "81b900b2b20fa2a683c8809ddfaec9a239e2eabd7d6e4f78aa7a66c0d24189b9"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-linux-musl-libgfortran5-cxx11-julia_version+1.15.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+git-tree-sha1 = "671ef8dea3aee59014b59e1c7cf226e2d1b7202f"
 julia_version = "1.10.0"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SDPA.download]]
-    sha256 = "674f56cff178735c1a495e81c2bb0d93211e7593632675a6e30bec8198ca39e7"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-unknown-freebsd-libgfortran5-julia_version+1.10.0.tar.gz"
+    sha256 = "4552e43c13b9d4b40ab40265a0b300579d952133444f46487df6211fd1d85497"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-unknown-freebsd-libgfortran5-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
-git-tree-sha1 = "9436f2e6c5585c7e06c66ae316dd94280d52e047"
+git-tree-sha1 = "eb0e2a6ee3c1f704f9b34a2bba741938537ae953"
 julia_version = "1.11.1"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SDPA.download]]
-    sha256 = "c8146809ed4c59876a71e15946bb132490648e0213d8f4324aa0431b4fb7c89c"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-unknown-freebsd-libgfortran5-julia_version+1.11.1.tar.gz"
+    sha256 = "bcf99b2bc99c45e8c2cf29e6d565863fe4a54501a9e9c7cce0270bff4d1785cb"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-unknown-freebsd-libgfortran5-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "x86_64"
-git-tree-sha1 = "79fb51610744cf5b3b90aff6056a49b49a46569c"
+git-tree-sha1 = "d0a276ad05b13bf94b8964b691b8e28aa705770a"
 julia_version = "1.12.0"
 libgfortran_version = "5.0.0"
 os = "freebsd"
 
     [[SDPA.download]]
-    sha256 = "9e3895ac3ac9c1921dc1126c3a695127a6692d530923a89c71f33153218c0d02"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-unknown-freebsd-libgfortran5-julia_version+1.12.0.tar.gz"
+    sha256 = "a5a83b53b6a642131e0785488257d354d530f8467293ccd5541eb31265d2e35f"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-unknown-freebsd-libgfortran5-julia_version+1.12.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+git-tree-sha1 = "e67b96e3a92b6ce90c894c14dd2f65def112ab8f"
+julia_version = "1.13.0"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[SDPA.download]]
+    sha256 = "13ca39849d11de3af814b6567e85ccd5f4cae40188661214db1b79acaa582b77"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-unknown-freebsd-libgfortran5-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+git-tree-sha1 = "d6cadc1bafe4004f6f6fa548191446d4c4a4f630"
+julia_version = "1.14.0"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[SDPA.download]]
+    sha256 = "1f11b350d5bbc44acb345186527baadaa14a0a0b24a1ceb031e91c2170a0b61d"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-unknown-freebsd-libgfortran5-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+git-tree-sha1 = "39e53bcba0a11aa3c6103f0eef109f341da95923"
+julia_version = "1.15.0"
+libgfortran_version = "5.0.0"
+os = "freebsd"
+
+    [[SDPA.download]]
+    sha256 = "840bcbe2d3ad0c3a33cc9e035f5c055f79acb0dd3587a8bc44d8a08af3c71174"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-unknown-freebsd-libgfortran5-julia_version+1.15.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "32ed3e3c095615a8e33947b5b539cbc2fc13db9a"
+git-tree-sha1 = "fcba74033da6a45c29fc89081c2907496b9a3240"
 julia_version = "1.10.0"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SDPA.download]]
-    sha256 = "5d4862b63e95425cc189439420edce8401dea5be732716ee1db3ea7afd75f9a6"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
+    sha256 = "07ce31f40365a0400827b884827a8c64c07f46db6df651431693d3f8218b26be"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.10.0.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "08875076b693cc7f53ba5a641e01667b72cdcb7e"
+git-tree-sha1 = "fbce9077e49fe5e59ff050eec38747fd39e13330"
 julia_version = "1.11.1"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SDPA.download]]
-    sha256 = "9e61057e07275e3bfcb9fbbfb92d746f4c84c3566b90c20dabf7c5edddf74b75"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
+    sha256 = "baae0f23ef972a492fe81c27b7ce7d4957f2f6d66e84e6a491658de1abcca8ab"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.11.1.tar.gz"
 [[SDPA]]
 arch = "x86_64"
 cxxstring_abi = "cxx11"
-git-tree-sha1 = "58d8144b32b3f0fcbd52a886eabf4d1849037c00"
+git-tree-sha1 = "dcae8d50a9d360f6b95a000df0a20cdf7a29cf97"
 julia_version = "1.12.0"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[SDPA.download]]
-    sha256 = "0b9238bfcdbad5fbf046262901ff3fca469e387605454bd8a55ccc64f36313b2"
-    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1900+0/SDPA.v700.300.1900.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+    sha256 = "92efee5f077065ec1642e108fab126a0db4af2b94db9d5dd52e4002822fc88a2"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.12.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "238f41d4d67d977083e6d0537e14b06216c91cbb"
+julia_version = "1.13.0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SDPA.download]]
+    sha256 = "ed4bdc1e883d591b0e7bd6be6f09df5db4f808f855b7fd96fa22460ddcd09fe9"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.13.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "84df8ae84bc5e405138e23bd39450d8bebf60d9e"
+julia_version = "1.14.0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SDPA.download]]
+    sha256 = "f8238a773316d1c0f7ca2981d7aa3d6b30182bb4b4d2f673d8bbed04dccdc8b3"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.14.0.tar.gz"
+[[SDPA]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1c797235884361fb22a294bee79352184487d028"
+julia_version = "1.15.0"
+libgfortran_version = "5.0.0"
+os = "windows"
+
+    [[SDPA.download]]
+    sha256 = "1a66ee7c9933458a0129c443b19a081841b8291be32b7f2251bbabd6413ab33d"
+    url = "https://github.com/JuliaBinaryWrappers/SDPA_jll.jl/releases/download/SDPA-v700.300.1901+0/SDPA.v700.300.1901.x86_64-w64-mingw32-libgfortran5-cxx11-julia_version+1.15.0.tar.gz"

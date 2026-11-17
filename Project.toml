@@ -1,18 +1,18 @@
+version = "700.300.1901+0"
 name = "SDPA_jll"
 uuid = "7fc90fd6-dbef-5a6a-93f8-169f2a2e705b"
-version = "700.300.1900+0"
 
 [deps]
-JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
-CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
-libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
 Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
 OpenBLAS32_jll = "656ef2d0-ae68-5445-9ca0-591084a874a2"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+libcxxwrap_julia_jll = "3eaa8342-bff7-56a5-9981-c04077f7cee7"
 Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+CompilerSupportLibraries_jll = "e66e0078-7015-5450-92f7-15fbd957f2ae"
 
 [compat]
-JLLWrappers = "1.7.0"
-julia = "1.6"
-libcxxwrap_julia_jll = "~0.14"
 Libdl = "< 0.0.1, 1"
+julia = "~1.10, ~1.11, ~1.12, ~1.13, ~1.14, ~1.15"
+JLLWrappers = "1.7.0"
 Artifacts = "< 0.0.1, 1"
+libcxxwrap_julia_jll = "~0.14.13"
